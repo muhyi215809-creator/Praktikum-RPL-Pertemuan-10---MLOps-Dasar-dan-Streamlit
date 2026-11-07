@@ -1,5 +1,5 @@
 # Praktikum RPL Pertemuan 10
-## MLOps Dasar – Sistem Prediksi Kelulusan Mahasiswa
+## MLOps Dasar Sistem Prediksi Kelulusan Mahasiswa
 
 ### Deskripsi
 Proyek ini merupakan hasil Praktikum Rekayasa Perangkat Lunak (RPL) Pertemuan 10. Aplikasi dibuat menggunakan Machine Learning dan Streamlit untuk memprediksi kelulusan mahasiswa berdasarkan IPK dan total SKS.
