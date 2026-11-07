@@ -55,6 +55,3 @@ streamlit run app.py
 
 ### Metode Machine Learning
 Algoritma yang digunakan adalah Decision Tree Classifier dengan data latih sederhana berupa IPK dan total SKS.
-
-### Keterangan
-Proyek ini dibuat untuk memenuhi tugas Praktikum Rekayasa Perangkat Lunak (RPL) Pertemuan 10.
